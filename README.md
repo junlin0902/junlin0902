@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Junlin Yu UWaterloo  
+# Junlin Yu UWaterloo  
 🌱  
 Major: Computer Science & Computational Mathematics  
 Minor: Combinatorics and Optimization  
