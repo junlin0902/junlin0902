@@ -6,4 +6,4 @@ Minor: Combinatorics and Optimization
 📫  
 Email: j462yu@uwaterloo.ca  
 ⚡  
-Fun fact: League of Legends (GrandMatser solo/duo Ranking)
+Game: League of Legends (GrandMatser solo/duo Ranking & Vlad Player)
