@@ -1,6 +1,6 @@
 # Junlin Yu👋  
 🌱  UWaterloo  
-Major: Computer Science & Computational Mathematics  
+Major: Computer Science & Computational Mathematics (Double major)  
 Minor: Combinatorics and Optimization  
 📫  
 Email: j462yu@uwaterloo.ca  
